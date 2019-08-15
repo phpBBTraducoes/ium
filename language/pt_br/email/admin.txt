@@ -1,0 +1,12 @@
+Subject: Você foi excluído de {SITENAME} pelo administrador
+
+Olá, {USER_NAME}
+
+Nós estamos muito arrependidos, mas sua conta foi excluída pelo administrador!
+O motivo da exclusão é que você não efetuou login por mais de {INTERVAL_DAYS_SUM} dias em "{SITENAME}".
+Se quiser, você pode se inscrever novamente.
+Nós esperamos te ver novamente em breve.
+
+{EMAIL_SIG}
+
+

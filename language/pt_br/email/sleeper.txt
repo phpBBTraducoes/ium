@@ -1,0 +1,32 @@
+Subject: Sentimos sua falta!
+
+Olá, {USERNAME}
+
+Vimos que a sua última visita no nosso fórum {SITE_NAME} foi em "{LAST_VISIT}".
+Já faz um tempo, e gostaríamos que você soubesse que esperamos vê-lo novamente em breve!
+
+Caso você tenha esquecido suas credenciais, você sempre poderá recuperá-las usando o seguinte link.
+
+{FORGOT_PASS}
+
+Se não, você sempre pode contatar o administrador do fórum neste e-mail "{ADMIN_MAIL}".
+Espero te ver de volta. 
+
+<!-- IF USR_TPC_LIST -->
+Abaixo alguns links para tópicos em que você esteve ativo.
+
+{USR_TPC_LIST}
+<!-- ENDIF -->
+
+<!-- IF USR_FRM_LIST -->
+Abaixo alguns links para os tópicos mais ativos do fórum.
+
+{USR_FRM_LIST}
+<!-- ENDIF -->
+
+<!-- IF SELF_DELETE_LINK -->
+Clique no link a seguir para excluir sua conta.
+{SELF_DELETE_LINK}
+<!-- ENDIF -->
+
+{EMAIL_SIG}
